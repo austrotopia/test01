@@ -1,3 +1,6 @@
+---
+tags: [Freiheit, Grundrechte, Recht]
+---
 # 01-01-00 – Grundrechte
 
-Dummyartikel für den Strukturtest.
+Dummytext zur Domäne Grundrechte. Themen: Rechtsschutz, körperliche Unversehrtheit und Datenschutz.

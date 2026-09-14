@@ -1,3 +1,6 @@
-# 03-02-00 – Rechtsordnung & Justiz
+---
+tags: [Justiz, Recht, Ordnung]
+---
+# 03-02-00 – Rechtsordnung und Justiz
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Rechtsordnung, unabhängiger Justiz, Verfahren und Rechtsschutz.

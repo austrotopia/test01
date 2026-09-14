@@ -1,3 +1,6 @@
+---
+tags: [Nachrichtendienst, Sicherheit, Außenpolitik]
+---
 # 02-02-03 – Auslandsgeheimdienst
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Auslandsaufklärung, Sicherheit, Informationsgewinnung und staatlicher Kontrolle.

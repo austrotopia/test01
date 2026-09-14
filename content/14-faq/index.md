@@ -1,3 +1,6 @@
+---
+tags: [FAQ, AustroTopia, Fragen]
+---
 # 14-00-00 – FAQ
 
-Dummybereich für den Strukturtest.
+Testbereich für häufige Fragen zum Modell.

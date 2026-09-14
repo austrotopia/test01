@@ -1,3 +1,6 @@
+---
+tags: [Eigentum, Recht, Wirtschaft]
+---
 # 01-03-01 – Eigentumsschutz
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Eigentumsschutz, Rechtssicherheit, Besitz und wirtschaftlicher Freiheit.

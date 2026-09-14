@@ -1,3 +1,6 @@
-# 03-02-02 – Verfahren & Rechtsschutz
+---
+tags: [Rechtsschutz, Justiz, Verfahren]
+---
+# 03-02-02 – Verfahren und Rechtsschutz
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Verfahren, Rechtsschutz, fairen Prozessen und gerichtlicher Kontrolle.

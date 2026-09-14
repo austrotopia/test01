@@ -1,3 +1,6 @@
+---
+tags: [Selbstbestimmung, Schutz, Freiheit]
+---
 # 01-02-03 – Schutz vor Fremdbestimmung
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Schutz, Selbstbestimmung, Machtbegrenzung und persönlicher Autonomie.

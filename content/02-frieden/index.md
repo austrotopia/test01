@@ -1,3 +1,6 @@
+---
+tags: [Frieden, Sicherheit, Neutralität]
+---
 # 02-00-00 – FRIEDEN
 
-Dummyartikel für den Strukturtest.
+Dummytext zur Säule Frieden. Themen: innere Sicherheit, äußere Sicherheit, Neutralität und Krisenresilienz.

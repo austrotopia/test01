@@ -1,3 +1,6 @@
+---
+tags: [AustroTopia, Werte, Freiheit]
+---
 # 00-00-01 – Präambel
 
-Platzhalter für den späteren Inhalt.
+Platzhalter zur Präambel. Schlagworte: Werte, Freiheit, Grundidee.

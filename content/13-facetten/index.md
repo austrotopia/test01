@@ -1,3 +1,6 @@
+---
+tags: [Facetten, AustroTopia, Modell]
+---
 # 13-00-00 – Facetten
 
-Dummybereich für den Strukturtest.
+Testbereich für einzelne Facetten des Modells.

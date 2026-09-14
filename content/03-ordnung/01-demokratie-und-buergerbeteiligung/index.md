@@ -1,3 +1,6 @@
-# 03-01-00 – Demokratie & Bürgerbeteiligung
+---
+tags: [Demokratie, Bürgerbeteiligung, Wahlen]
+---
+# 03-01-00 – Demokratie und Bürgerbeteiligung
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Demokratie, Wahlen, Parteien und direkter Bürgerbeteiligung.

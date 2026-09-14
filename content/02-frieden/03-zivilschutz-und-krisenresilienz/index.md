@@ -1,3 +1,6 @@
-# 02-03-00 – Zivilschutz & Krisenresilienz
+---
+tags: [Zivilschutz, Resilienz, Sicherheit]
+---
+# 02-03-00 – Zivilschutz und Krisenresilienz
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Zivilschutz, Vorsorge, Krisenresilienz und Versorgungssicherheit.

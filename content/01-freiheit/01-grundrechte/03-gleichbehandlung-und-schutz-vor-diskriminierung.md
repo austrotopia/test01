@@ -1,3 +1,6 @@
-# 01-01-03 – Gleichbehandlung & Schutz vor Diskriminierung
+---
+tags: [Grundrechte, Gleichbehandlung, Gesellschaft]
+---
+# 01-01-03 – Gleichbehandlung und Schutz vor Diskriminierung
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Gleichbehandlung, Gesellschaft, Rechtsschutz und fairen Regeln.

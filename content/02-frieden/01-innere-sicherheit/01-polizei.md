@@ -1,3 +1,6 @@
+---
+tags: [Polizei, Sicherheit, Recht]
+---
 # 02-01-01 – Polizei
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Polizei, öffentlicher Sicherheit, Rechtsstaat und Einsatzorganisation.

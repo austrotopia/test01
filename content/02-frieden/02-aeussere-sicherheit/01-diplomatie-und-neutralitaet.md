@@ -1,3 +1,6 @@
-# 02-02-01 – Diplomatie & Neutralität
+---
+tags: [Diplomatie, Neutralität, Frieden]
+---
+# 02-02-01 – Diplomatie und Neutralität
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Diplomatie, Neutralität, internationalen Beziehungen und friedlicher Vermittlung.

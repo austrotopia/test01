@@ -1,3 +1,6 @@
+---
+tags: [AustroTopia, Orientierung, Modell]
+---
 # 00-00-00 – Start
 
-Dummyartikel für den Strukturtest.
+Zentrale Einstiegsseite für den Strukturtest. Schlagworte: Orientierung, Modell, Überblick.

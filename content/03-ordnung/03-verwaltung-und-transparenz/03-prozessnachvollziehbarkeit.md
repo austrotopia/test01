@@ -1,3 +1,6 @@
+---
+tags: [Transparenz, Prozesse, Verwaltung]
+---
 # 03-03-03 – Prozessnachvollziehbarkeit
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Prozessketten, Dokumentation, Transparenz und überprüfbaren Entscheidungen.

@@ -1,3 +1,6 @@
+---
+tags: [Bevölkerungsschutz, Sicherheit, Vorsorge]
+---
 # 02-03-02 – Bevölkerungsschutz
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Bevölkerungsschutz, Warnsystemen, Vorsorge und Krisenkommunikation.

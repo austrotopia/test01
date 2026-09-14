@@ -1,3 +1,6 @@
-# 03-02-03 – Sanktionen & Wiedergutmachung
+---
+tags: [Justiz, Sanktionen, Wiedergutmachung]
+---
+# 03-02-03 – Sanktionen und Wiedergutmachung
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Sanktionen, Wiedergutmachung, Opferentschädigung und gesellschaftlichem Schutz.

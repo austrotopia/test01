@@ -1,3 +1,6 @@
-# 03-03-00 – Verwaltung & Transparenz
+---
+tags: [Verwaltung, Transparenz, Open Source]
+---
+# 03-03-00 – Verwaltung und Transparenz
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Verwaltung, Transparenz, offenen Prozessen und digitaler Nachvollziehbarkeit.

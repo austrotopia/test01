@@ -1,3 +1,6 @@
+---
+tags: [Infrastruktur, Resilienz, Versorgung]
+---
 # 02-03-03 – Infrastrukturresilienz
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Infrastruktur, Energie, Versorgung, Redundanz und technischer Resilienz.

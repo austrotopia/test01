@@ -1,3 +1,6 @@
+---
+tags: [AustroTopia, Modell, Test]
+---
 # AustroTopia – Strukturtest
 
-Technischer Test der vollständigen Gliederungsstruktur.
+Technische Testseite für Navigation, Suche, Schlagworte, Facetten und FAQ.

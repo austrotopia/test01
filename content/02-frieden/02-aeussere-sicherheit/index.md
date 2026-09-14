@@ -1,3 +1,6 @@
+---
+tags: [Frieden, Neutralität, Verteidigung]
+---
 # 02-02-00 – Äußere Sicherheit
 
-Dummyartikel für den Strukturtest.
+Dummytext zur Domäne Äußere Sicherheit. Themen: Neutralität, Diplomatie und Landesverteidigung.

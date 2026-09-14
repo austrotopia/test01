@@ -1,3 +1,6 @@
+---
+tags: [Demokratie, Parteien, Politik]
+---
 # 03-01-02 – Parteien
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Parteien, politischer Organisation, Wettbewerb und demokratischen Regeln.

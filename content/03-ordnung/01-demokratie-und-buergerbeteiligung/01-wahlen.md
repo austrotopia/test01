@@ -1,3 +1,6 @@
+---
+tags: [Demokratie, Wahlen, Bürger]
+---
 # 03-01-01 – Wahlen
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Wahlen, Wahlrecht, demokratischer Legitimation und Bürgerbeteiligung.

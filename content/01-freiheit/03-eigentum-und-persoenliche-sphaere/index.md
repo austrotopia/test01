@@ -1,3 +1,6 @@
-# 01-03-00 – Eigentum & persönliche Sphäre
+---
+tags: [Eigentum, Privatsphäre, Freiheit]
+---
+# 01-03-00 – Eigentum und persönliche Sphäre
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Eigentum, persönlicher Sphäre, Wohnung und Verfügungsrechten.

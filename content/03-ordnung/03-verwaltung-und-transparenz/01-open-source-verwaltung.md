@@ -1,3 +1,6 @@
+---
+tags: [Verwaltung, Open Source, Transparenz]
+---
 # 03-03-01 – Open-Source-Verwaltung
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Open Source, staatlicher Software, Transparenz und technischer Nachprüfbarkeit.

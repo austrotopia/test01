@@ -1,3 +1,6 @@
-# 01-02-00 – Selbstbestimmung & Autonomie
+---
+tags: [Freiheit, Selbstbestimmung, Verantwortung]
+---
+# 01-02-00 – Selbstbestimmung und Autonomie
 
-Dummyartikel für den Strukturtest.
+Dummytext zu Selbstbestimmung, Autonomie, Verantwortung und persönlichen Entscheidungen.

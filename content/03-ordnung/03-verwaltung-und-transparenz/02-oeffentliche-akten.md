@@ -1,3 +1,6 @@
+---
+tags: [Transparenz, Verwaltung, Öffentlichkeit]
+---
 # 03-03-02 – Öffentliche Akten
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu öffentlichen Akten, Informationszugang, Verwaltung und Transparenz.

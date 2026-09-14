@@ -1,3 +1,6 @@
-# 03-02-01 – Unabhängigkeit & Integrität
+---
+tags: [Justiz, Unabhängigkeit, Recht]
+---
+# 03-02-01 – Unabhängigkeit und Integrität
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu richterlicher Unabhängigkeit, Integrität, Kontrolle und Vertrauen in die Justiz.

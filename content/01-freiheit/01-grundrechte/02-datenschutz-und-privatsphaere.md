@@ -1,3 +1,6 @@
-# 01-01-02 – Datenschutz & Privatsphäre
+---
+tags: [Datenschutz, Privatsphäre, Freiheit]
+---
+# 01-01-02 – Datenschutz und Privatsphäre
 
-Dummyartikel für den Strukturtest.
+Testinhalt zu Datenschutz, Privatsphäre, digitalen Daten und persönlicher Kontrolle.
